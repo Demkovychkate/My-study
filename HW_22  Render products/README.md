@@ -1,7 +1,3 @@
-# My30homework
-
-Task:
-
 Create function-construction Product, which have this arguments: category, type, price and assign it to the object fields with the relevant keys.
 
 Each object, that had been created by function-constructor should be able function render, this function should return string like this:
