@@ -3,7 +3,6 @@ Create function-construction Product, which have this arguments: category, type,
 Each object, that had been created by function-constructor should be able function render, this function should return string like this:
 
 `<tr>
-<td><img src="images/kitchen/grater.svg" alt="grater" width="50" height="50"></td>
 <td>grater</td>
 <td>10 USD</td>
 
