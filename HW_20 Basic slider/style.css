@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+   position: relative;
+}
+.slider{
+ margin: auto;;
+    width: 80%;
+    height: 80%;
+    display: flex;
+   justify-content: center;
+    overflow: hidden;
+  
+}
+
+.slide {
+    position: relative;
+    width: 100%;
+    height: auto;
+   
+  }
+  
+ .prev{
+    opacity: 50%;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+  left: 10%;
+  border: none;
+ }
+ .next{
+    opacity: 50%;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+  right: 10%;
+  border: none;
+ }
