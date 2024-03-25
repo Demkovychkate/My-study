@@ -1,0 +1,10 @@
+.SmileBox{
+    display: flex;
+    flex-direction: row;
+}
+.smile { 
+  
+    font-size: 30px;       
+    cursor: pointer;
+    margin: 20px;
+}
