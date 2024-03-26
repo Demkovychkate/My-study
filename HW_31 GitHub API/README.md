@@ -1,6 +1,3 @@
-# My40homework
-
-My 40 homework
 Certainly! Let's enhance the GitHub API homework assignment to make it even more engaging:
 
 Homework Assignment: GitHub User Explorer
