@@ -1,6 +1,3 @@
-# My37HomeWork
-
-My 37 Homework
 Implement an ATM algorithm for:
 
 Checking the card balance.
