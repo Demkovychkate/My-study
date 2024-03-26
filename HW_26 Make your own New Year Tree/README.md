@@ -1,6 +1,3 @@
-# My34homeWork
-
-My 34 homework
 Description:
 Create a simplified version of the "Tetris" game, where the primary element is a cube. This cube automatically moves down 50 pixels every second. The player can move the cube left and right, but cannot move it once it reaches the bottom of the playing area. The cube should not exit the boundaries of the user's screen.
 
