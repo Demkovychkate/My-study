@@ -1,6 +1,3 @@
-# My33homework
-
-My 33 homework
 The corresponding project code is located in the archive code.zip.
 
 The file script.js contains the following data:
