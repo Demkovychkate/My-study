@@ -1,0 +1,13 @@
+{
+  "name": "44.1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "My 44.1 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
