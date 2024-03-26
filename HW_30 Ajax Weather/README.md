@@ -1,6 +1,3 @@
-# My39homework
-
-My 39 homework
 За допомогою ajax-запиту вивести погоду
 
 http://api.openweathermap.org/data/2.5/weather?q=LVIV&units=metric&APPID=5d066958a60d315387d9492393935c19
